@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FDConverterFull</string>
+    <string-array name="valutes">
+        <item>RUB</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>CNY</item>
+        <item>JPY</item>
+        <item>CAD</item>
+        <item>AUD</item>
+        <item>THB</item>
+    </string-array>
+    <string-array name="valutes2">
+        <item>USD</item>
+        <item>RUB</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>CNY</item>
+        <item>JPY</item>
+        <item>CAD</item>
+        <item>AUD</item>
+        <item>THB</item>
+    </string-array>
+</resources>
